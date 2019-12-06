@@ -1,1 +1,3 @@
 # cleanUp
+
+cleanUp services app
